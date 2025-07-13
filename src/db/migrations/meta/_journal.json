@@ -15,6 +15,13 @@
       "when": 1752105030626,
       "tag": "0001_late_red_shift",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752356743039,
+      "tag": "0002_parched_inhumans",
+      "breakpoints": true
     }
   ]
 }
